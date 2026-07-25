@@ -18,10 +18,6 @@ This is a Power BI dashboard built to analyze Zomato delivery data. The goal of 
 * `dashboard/` - Contains the final Power BI (`.pbix`) file and a PDF report.
 * `images/` - Screenshots of the project.
 
-## 📊 Dashboard Screenshots
-
-### 1. Delivery Metrics Dashboard
-![Dashboard Overview](images/page1_metrics.png)
 
 ### 2. Location & Map Dashboard
 ![Geospatial Map](images/page2_maps.png)
